@@ -9,7 +9,7 @@ You must keep all credits the same, feel free to mess around tho,
 
 Hosted 24/7 on replit!
 
-Live Demo: https://website.louiswj.repl.co
+Live Demo: https://bot.octave.services
 
 Enjoy using it!
 
